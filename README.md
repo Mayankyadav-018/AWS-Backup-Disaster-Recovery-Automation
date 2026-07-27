@@ -10,7 +10,7 @@ This project demonstrates how AWS services can be integrated to build an automat
 
 ## Project Architecture
 
-![Architecture](architecture/architecture.png)
+![Architecture](Architecture/architecture.png)
 
 ---
 
@@ -75,43 +75,43 @@ aws-backup-disaster-recovery-automation
 
 ### EC2 Instance
 
-![EC2](screenshots/ec2.png)
+![EC2](Screenshots/ec2.png)
 
 ---
 
 ### Lambda Function
 
-![Lambda](screenshots/lambda.png)
+![Lambda](Screenshots/lambda.png)
 
 ---
 
 ### EventBridge Scheduler
 
-![EventBridge](screenshots/eventbridge.png)
+![EventBridge](Screenshots/eventbridge.png)
 
 ---
 
 ### Amazon S3
 
-![S3](screenshots/s3.png)
+![S3](Screenshots/s3.png)
 
 ---
 
 ### EBS Snapshot
 
-![Snapshot](screenshots/snapshot.png)
+![Snapshot](Screenshots/snapshot.png)
 
 ---
 
 ### CloudWatch Alarm
 
-![CloudWatch](cloudwatch.png)
+![CloudWatch](Screenshots/cloudwatch.png)
 
 ---
 
 ### SNS
 
-![Snapshot](screenshots/sns.png)
+![Snapshot](Screenshots/sns.png)
 
 ---
 
